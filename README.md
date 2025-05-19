@@ -1,5 +1,5 @@
 # Save-current-site-As-shorcut-file
-The following bookmarklets allows the user to save the current site on the tab as a web shortcut file.Currently the only way to create such shortcut files is by dragging the address bar direction, which can be inconvenient in certain contexts or on some devices. The bookmarklets I have made produce a .URL file (for windows systems), a .desktop file (for Linux systems) and a .webloc (for Mac). As bookmarklets,  compatibility across most browsers is expected.
+The following bookmarklets allow the user to save the current site on the tab as a web shortcut file.Currently the only way to create such shortcut files is by dragging the address bar direction, which can be inconvenient in certain contexts or on some devices. The bookmarklets I have made produce a .URL file (for windows systems), a .desktop file (for Linux systems) and a .webloc (for Mac). As bookmarklets,  compatibility across most browsers is expected.
 
 To use it, just drag any of the script below to the bookmark toolbar.
 
